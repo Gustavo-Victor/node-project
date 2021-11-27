@@ -15,7 +15,9 @@ Simple node project to train web development skills.
 
 ## How to use/test
 - Download and install node.js from the [website](https://nodejs.org/en/)
-- Open the terminal in the project folder and type 'node index.js' + ENTER
+- Open the terminal in the project folder
+- If the express is not working, in the terminal type 'npm update' to check all dependencies
+- In the terminal type 'node index.js'
 - Go to your browser's search bar and type:
 - localhost:3000/acabate 
 or type:
